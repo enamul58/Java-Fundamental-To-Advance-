@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2 Challenge/2 Challenge.iml" filepath="$PROJECT_DIR$/2 Challenge/2 Challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3 Challenge/3 Challenge.iml" filepath="$PROJECT_DIR$/3 Challenge/3 Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 Left Half Pyramid/2 Challenge.iml" filepath="$PROJECT_DIR$/2 Left Half Pyramid/2 Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Reverse Right Half Pyramid/3 Challenge.iml" filepath="$PROJECT_DIR$/3 Reverse Right Half Pyramid/3 Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/3 Data Types Variables &amp; Input.iml" filepath="$PROJECT_DIR$/3 Data Types Variables &amp; Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataType/DataType.iml" filepath="$PROJECT_DIR$/DataType/DataType.iml" />
     </modules>
   </component>
 </project>
