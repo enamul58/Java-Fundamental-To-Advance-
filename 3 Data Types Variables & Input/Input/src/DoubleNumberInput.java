@@ -9,6 +9,5 @@ public class DoubleNumberInput {
         double DoubleNumberNum2 = DoubleNumber.nextDouble();
         double result = DoubleNumberNum1 + DoubleNumberNum2;
         System.out.println("addition result of fraction number:" + result);
-
     }
 }
